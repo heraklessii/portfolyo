@@ -1,0 +1,78 @@
+{
+  "slug": "fogwardens",
+  "title": "Fogwardens",
+  "kind": "game",
+  "order": 80,
+  "featured": false,
+  "color": "#f5c542",
+  "status": {
+    "tr": "RTS'e dönüşüyor · demo",
+    "en": "Becoming an RTS · demo"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Sisin ortasında bir ada kur: sisle temas eden her kenar, gece için bir kapı.",
+    "en": "Build an island in the fog: every edge that touches the fog is a door for the night."
+  },
+  "description": {
+    "tr": "Masa oyunu hissinde, hex tabanlı bir şehir kurma + kule savunma oyunu. Her sabah 5 kart çekiyorsun; karolar ve yapılar aynı destede. Kompakt bir ada güvenli ama verimsiz, uzanan bir ada zengin ama savunması zor. Gece kaç düşmanın hangi yönden geleceğini gündüzden görüyorsun — gece sürpriz değil, hesap.",
+    "en": "A hex-based city builder and tower defense with a cozy board-game feel. Every morning you draw 5 cards; tiles and buildings share one deck. A compact island is safe but poor, a sprawling one is rich but hard to defend. You see exactly how many enemies come tonight and from where — the night is not a surprise, it's a calculation."
+  },
+  "highlights": {
+    "tr": [
+      "Açık kenar sistemi: adanın şekli = savunma kararı",
+      "Tek deste: oynamadığın kartlar gece sise karışır",
+      "6 şehir seviyesi, krizler ve Kara Mühürler",
+      "Bedelli kararlar: kirlenmiş karolar, feda etme",
+      "Aşağıdaki web prototipini tarayıcıda oynayabilirsin"
+    ],
+    "en": [
+      "Open-edge system: the shape of your island is your defense",
+      "One deck: unplayed cards vanish into the fog at night",
+      "6 city levels, crises and Black Seals",
+      "Choices with a cost: corrupted tiles, sacrifice",
+      "Play the web prototype right here in your browser"
+    ]
+  },
+  "tags": [
+    "Unity 6",
+    "C#",
+    "URP",
+    "Strateji",
+    "Tower Defense"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/fogwardens/cover.webp",
+  "thumb": "/media/fogwardens/cover-sm.webp",
+  "gallery": [
+    "/media/fogwardens/shot-1.webp",
+    "/media/fogwardens/shot-2.webp",
+    "/media/fogwardens/shot-3.webp",
+    "/media/fogwardens/shot-4.webp",
+    "/media/fogwardens/shot-5.webp"
+  ],
+  "embed": {
+    "type": "iframe",
+    "src": "/play/fogwardens/index.html",
+    "label": {
+      "tr": "Web prototipini oyna",
+      "en": "Play the web prototype"
+    },
+    "note": {
+      "tr": "Bu, oyunun denge kurallarını test ettiğim erken web prototipi (Türkçe). Asıl oyun Unity ile 3D.",
+      "en": "This is the early web prototype I used to balance the rules (Turkish UI). The real game is 3D, made in Unity."
+    }
+  },
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "Demoyu indir (itch.io)",
+        "en": "Get the demo (itch.io)"
+      },
+      "url": "https://heraklessi.itch.io/fogwardens"
+    }
+  ]
+}

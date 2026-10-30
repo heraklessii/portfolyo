@@ -1,0 +1,38 @@
+{
+  "slug": "muiren-bot",
+  "title": "Muiren Bot",
+  "kind": "tool",
+  "order": 40,
+  "color": "#9b84ff",
+  "status": {
+    "tr": "Açık kaynak",
+    "en": "Open source"
+  },
+  "year": "2025",
+  "tagline": {
+    "tr": "Modern, açık kaynak Discord müzik botu.",
+    "en": "A modern, open-source Discord music bot."
+  },
+  "description": {
+    "tr": "discord.js v14 ve discord-player ile yazılmış, sunucuna eklenebilen müzik botu.",
+    "en": "A music bot for your server, built with discord.js v14 and discord-player."
+  },
+  "tags": [
+    "Node.js",
+    "discord.js",
+    "Discord"
+  ],
+  "cover": "/media/muiren-bot/cover.webp",
+  "thumb": "/media/muiren-bot/cover-sm.webp",
+  "gallery": [],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Muiren-bot"
+    }
+  ]
+}

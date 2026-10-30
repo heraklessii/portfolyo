@@ -1,0 +1,71 @@
+{
+  "slug": "loomlight",
+  "title": "Loomlight",
+  "kind": "tool",
+  "order": 70,
+  "featured": true,
+  "color": "#ffb547",
+  "status": {
+    "tr": "Ücretsiz · açık kaynak",
+    "en": "Free · open source"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Ücretsiz, açık kaynak piksel art editörü ve sprite animasyon aracı.",
+    "en": "A free, open-source pixel art editor and sprite animator."
+  },
+  "description": {
+    "tr": "Piksel piksel çiz, katmanlarla çalış, karelerle animasyon yap; PNG, sprite sheet ya da GIF olarak tam çizdiğin piksellerle dışa aktar. Çevrimdışı, hesap yok. Gölgeleme mürekkebi, dither, indeksli renk, döşeme modu ve .aseprite içe aktarma.",
+    "en": "Draw pixel by pixel, work in layers, animate across frames and export PNG, sprite sheets or GIFs — exactly the pixels you drew. Offline, no account. Shading ink, dithering, indexed colour, tiled mode and .aseprite import."
+  },
+  "highlights": {
+    "tr": [
+      "Katmanlar × kareler tek zaman çizelgesinde, onion skin",
+      "Seçim, dönüştürme, diğer uygulamalarla kopyala-yapıştır",
+      "İndeksli renk + canlı palet değişimi, .gpl/.hex/.pal/PNG palet",
+      "Özelleştirilebilir kısayollar, komut paleti, TR/EN"
+    ],
+    "en": [
+      "Layers × frames in one timeline, onion skin",
+      "Selections, transforms, copy & paste with other apps",
+      "Indexed colour with live palette swaps, .gpl/.hex/.pal/PNG palettes",
+      "Custom shortcuts, command palette, EN/TR"
+    ]
+  },
+  "tags": [
+    "Electron",
+    "React",
+    "TypeScript",
+    "GPL-3.0"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/loomlight/cover.webp",
+  "thumb": "/media/loomlight/cover-sm.webp",
+  "gallery": [
+    "/media/loomlight/shot-1.webp",
+    "/media/loomlight/shot-2.webp",
+    "/media/loomlight/shot-3.webp",
+    "/media/loomlight/shot-4.webp",
+    "/media/loomlight/shot-5.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "İndir (itch.io)",
+        "en": "Download (itch.io)"
+      },
+      "url": "https://heraklessi.itch.io/loomlight"
+    },
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Loomlight"
+    }
+  ]
+}

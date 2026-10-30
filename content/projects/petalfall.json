@@ -1,0 +1,68 @@
+{
+  "slug": "petalfall",
+  "title": "Petalfall",
+  "kind": "game",
+  "order": 100,
+  "featured": true,
+  "color": "#ff7eb6",
+  "status": {
+    "tr": "Erken erişim · Ücretsiz demo",
+    "en": "Early access · Free demo"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Tek bir hat üzerinde geçen, sıra tabanlı samuray kart oyunu. Her kart bir hareket.",
+    "en": "A turn-based samurai card game on a single line. Every card is a move."
+  },
+  "description": {
+    "tr": "Sen ve düşmanların aynı hattasınız. Her kart samurayının gerçekten yaptığı bir hareket: kesik, atılış, fırlatma, savunma. Her düşman bir sonraki hamlesini gösterir; darbenin nereye ineceğini hep bilirsin — sana kalan, nerede duracağın. Dört Mevsim Mührü çalındı; onları geri almak için Sakura Köyü'nden yola çıkıyorsun.",
+    "en": "You and your enemies share one line. Every card is something your samurai actually does: a cut, a dash, a throw, a guard. Every enemy shows its next move, so you always know where the blow will land — what you decide is where to stand. The four Season Seals were stolen; you set out from Sakura Village to bring them back."
+  },
+  "highlights": {
+    "tr": [
+      "Arkadan vuruş +%50, aynı turda 3 vuruş = sersemleten kombo",
+      "İt, çek, içinden geç: konum kart kadar önemli",
+      "4 perde, 4 mevsim, 4 boss",
+      "3 oynanabilir karakter, yürünebilir köy ve Dojo",
+      "Windows, Linux ve Android · itch.io'da 5.0 puan"
+    ],
+    "en": [
+      "Backstabs deal +50%, three hits in one turn stun",
+      "Push, pull, dash through: position matters as much as cards",
+      "4 acts, 4 seasons, 4 bosses",
+      "3 playable characters, a walkable village and a Dojo",
+      "Windows, Linux and Android · rated 5.0 on itch.io"
+    ]
+  },
+  "tags": [
+    "Unity 6",
+    "C#",
+    "Roguelike",
+    "Deckbuilding",
+    "Pixel art"
+  ],
+  "platforms": [
+    "Windows",
+    "Linux",
+    "Android"
+  ],
+  "cover": "/media/petalfall/cover.webp",
+  "thumb": "/media/petalfall/cover-sm.webp",
+  "gallery": [
+    "/media/petalfall/shot-1.webp",
+    "/media/petalfall/shot-2.webp",
+    "/media/petalfall/shot-3.webp",
+    "/media/petalfall/shot-4.webp",
+    "/media/petalfall/shot-5.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "Demoyu indir (itch.io)",
+        "en": "Get the demo (itch.io)"
+      },
+      "url": "https://heraklessi.itch.io/petalfall"
+    }
+  ]
+}

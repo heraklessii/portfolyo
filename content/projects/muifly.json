@@ -1,0 +1,49 @@
+{
+  "slug": "muifly",
+  "title": "Muifly",
+  "kind": "tool",
+  "order": 52,
+  "color": "#ffcf6b",
+  "status": {
+    "tr": "Ücretsiz · açık kaynak",
+    "en": "Free · open source"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Windows için oyun performans aracı: her değişiklik tek tıkla geri alınabilir.",
+    "en": "A game performance tool for Windows — every change undoable in one click."
+  },
+  "description": {
+    "tr": "Windows için oyun performans aracı: her değişiklik tek tıkla geri alınabilir.",
+    "en": "A game performance tool for Windows — every change undoable in one click."
+  },
+  "tags": [
+    "Rust",
+    "Tauri",
+    "Windows"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/muifly/cover.webp",
+  "thumb": "/media/muifly/cover-sm.webp",
+  "gallery": [],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Muifly"
+    },
+    {
+      "type": "secondary",
+      "label": {
+        "tr": "Tanıtım sayfası",
+        "en": "Project page"
+      },
+      "url": "https://heraklessii.github.io/Muifly/"
+    }
+  ]
+}

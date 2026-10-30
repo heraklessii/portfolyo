@@ -1,0 +1,18 @@
+/* "Print / PDF" from CV.exe: only the CV, on white paper. */
+@media print {
+  body { overflow: visible; background: #fff; color: #111; }
+  #app { position: static; }
+  .wallpaper, .taskbar, .start-menu, .icons, .note, .boot, .no-print, .win-title, .win-grip { display: none !important; }
+  .win { display: none !important; }
+  .win:has(#cv-print) { display: block !important; position: static !important; border: 0; box-shadow: none; width: auto !important; height: auto !important; }
+  .win-body { overflow: visible; }
+  .app { padding: 0; color: #111; }
+  .cv h1, .cv h2, .cv h3, .cv strong, .cv b { color: #111; }
+  .role, .link, .tl-when, .muted, .cv-projects small, .socials small { color: #444 !important; }
+  .chip { border-color: #999; color: #333; background: none; }
+  .timeline { border-color: #bbb; }
+  .tl-item::before { background: #333; }
+  .socials a { border-color: #ccc; background: none; color: #111; }
+  a::after { content: ' (' attr(href) ')'; font-size: 10px; color: #555; }
+  section { break-inside: avoid; }
+}

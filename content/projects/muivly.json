@@ -1,0 +1,50 @@
+{
+  "slug": "muivly",
+  "title": "Muivly",
+  "kind": "tool",
+  "order": 60,
+  "color": "#3fd6c6",
+  "status": {
+    "tr": "Ücretsiz · açık kaynak",
+    "en": "Free · open source"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Düşük sistemli bilgisayarlar için canlı duvar kağıdı motoru: GPU çözme, görünmezken sıfır iş.",
+    "en": "A live wallpaper engine for low-end PCs: GPU decode, zero work when hidden."
+  },
+  "description": {
+    "tr": "Düşük sistemli bilgisayarlar için canlı duvar kağıdı motoru: GPU çözme, görünmezken sıfır iş.",
+    "en": "A live wallpaper engine for low-end PCs: GPU decode, zero work when hidden."
+  },
+  "tags": [
+    "Rust",
+    "Tauri",
+    "Direct3D 11",
+    "HLSL"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/muivly/cover.webp",
+  "thumb": "/media/muivly/cover-sm.webp",
+  "gallery": [],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Muivly"
+    },
+    {
+      "type": "secondary",
+      "label": {
+        "tr": "Tanıtım sayfası",
+        "en": "Project page"
+      },
+      "url": "https://heraklessii.github.io/Muivly/"
+    }
+  ]
+}

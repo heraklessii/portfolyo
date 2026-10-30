@@ -1,0 +1,62 @@
+{
+  "slug": "mirelas-cauldron",
+  "title": "Mirela's Cauldron",
+  "kind": "game",
+  "order": 95,
+  "featured": true,
+  "color": "#b98cff",
+  "status": {
+    "tr": "Ücretsiz · tarayıcıda oyna",
+    "en": "Free · play in browser"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Gizemli, rahatlatıcı bir iksir dükkânı: iksir demle, kasabalılara servis et, Mirela'ya ne olduğunu çöz.",
+    "en": "Brew potions, serve the townsfolk and uncover what happened to Mirela in this cozy pixel-art idle game."
+  },
+  "description": {
+    "tr": "Yaşlı Orin sana kayıp simyacı Mirela'nın atölyesinin anahtarını veriyor. Kazanı karıştır, malzemelerden iksir demle, müşterilerin sabrı tükenmeden servis et ve geride bıraktığı ipuçlarını takip et. Mobil için tasarlandı; web sürümü itch.io'da reklamsız ve ücretsiz.",
+    "en": "Old Orin hands you the keys to the workshop of Mirela, a vanished alchemist. Stir the cauldron, brew potions from ingredients, serve customers before they lose patience and follow the clues she left behind. Designed for phones; the web version on itch.io is free and ad-free."
+  },
+  "highlights": {
+    "tr": [
+      "Altı gizli tarif, üç bölümlük hikâye",
+      "Üç kat serbestçe döşenen dükkân, bahçe, familiar'lar",
+      "Gece/gündüz ve haftalık etkinlikler",
+      "Tarayıcıda kalıcı kayıt (IndexedDB), Türkçe ve İngilizce"
+    ],
+    "en": [
+      "Six hidden recipes, a story in three chapters",
+      "Three freely decorated floors, a garden, familiars",
+      "Day/night and weekly events",
+      "Persistent saves in the browser (IndexedDB), English and Turkish"
+    ]
+  },
+  "tags": [
+    "Unity 6",
+    "C#",
+    "WebGL",
+    "Idle",
+    "Pixel art"
+  ],
+  "platforms": [
+    "Web",
+    "Android (yakında / soon)"
+  ],
+  "cover": "/media/mirelas-cauldron/cover.webp",
+  "thumb": "/media/mirelas-cauldron/cover-sm.webp",
+  "gallery": [
+    "/media/mirelas-cauldron/shot-1.webp",
+    "/media/mirelas-cauldron/shot-2.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "Tarayıcıda oyna (itch.io)",
+        "en": "Play in browser (itch.io)"
+      },
+      "url": "https://heraklessi.itch.io/mirelas-cauldron"
+    }
+  ]
+}

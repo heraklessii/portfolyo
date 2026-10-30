@@ -1,0 +1,43 @@
+{
+  "slug": "muiget",
+  "title": "Muiget",
+  "kind": "tool",
+  "order": 54,
+  "color": "#7cc8ff",
+  "status": {
+    "tr": "Ücretsiz · açık kaynak",
+    "en": "Free · open source"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Segmentli indirme, devam ettirme ve Chrome eklentisiyle açık kaynak indirme yöneticisi.",
+    "en": "An open-source download manager with segmented downloads, resume and a Chrome extension."
+  },
+  "description": {
+    "tr": "Segmentli indirme, devam ettirme ve Chrome eklentisiyle açık kaynak indirme yöneticisi.",
+    "en": "An open-source download manager with segmented downloads, resume and a Chrome extension."
+  },
+  "tags": [
+    "Rust",
+    "Tauri",
+    "Chrome extension"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/muiget/cover.webp",
+  "thumb": "/media/muiget/cover-sm.webp",
+  "gallery": [
+    "/media/muiget/shot-1.webp"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Muiget"
+    }
+  ]
+}

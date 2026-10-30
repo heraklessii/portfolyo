@@ -1,0 +1,194 @@
+{
+  "name": "İlker Uçkun",
+  "handle": "heraklessi",
+  "studio": "HERA",
+  "worldTitle": "HERAKLESSI",
+  "role": {
+    "tr": "Oyun geliştirici · Web geliştirici · Editör",
+    "en": "Game developer · Web developer · Editor"
+  },
+  "intro": {
+    "tr": "21 yaşındayım. Unity ile oyunlar, Node.js ile web platformları, Electron ile masaüstü araçlar ve Discord botları geliştiriyorum. Boş kalan zamanımda anime editleri ve oyun videoları hazırlıyorum.",
+    "en": "I'm 21. I build games in Unity, web platforms in Node.js, desktop tools in Electron and Discord bots. In my spare time I cut anime edits and gaming videos."
+  },
+  "about": {
+    "tr": [
+      "Uzun zamandır içerik üretiyorum: anime editleriyle başladım, sonra oyunlara ve yazılıma geçtim. Bugün tek başıma geliştirdiğim dört oyun, satışta olan bir masaüstü aracı, altı açık kaynak araç ve aktif kullanıcıları olan bir webtoon platformu var.",
+      "İşlerimin ortak noktası: kullanıcı deneyimine takıntılı olmak, performansı ölçmek ve projeleri modüler tutmak. Bir fikri baştan sona — tasarım, kod, yayın ve topluluk — kendim taşıyabiliyorum.",
+      "İş birliği, freelance proje ya da ortaklık için İletişim penceresinden bana ulaşabilirsin."
+    ],
+    "en": [
+      "I've been making things for a long time: I started with anime edits, then moved into games and software. Today I have four solo-developed games, a desktop tool on sale, six open-source tools and a webtoon platform with active readers.",
+      "What ties my work together: obsessing over user experience, measuring performance and keeping projects modular. I can carry an idea end to end — design, code, release and community.",
+      "For collaboration, freelance work or partnership, reach me through the Contact window."
+    ]
+  },
+  "skills": [
+    {
+      "group": {
+        "tr": "Oyun",
+        "en": "Games"
+      },
+      "items": [
+        "Unity 6 (URP)",
+        "C#",
+        "Oyun tasarımı / Game design",
+        "Prosedürel ses",
+        "Low-poly & pixel art pipeline"
+      ]
+    },
+    {
+      "group": {
+        "tr": "Web & Backend",
+        "en": "Web & Backend"
+      },
+      "items": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Socket.IO",
+        "Three.js",
+        "Güvenlik / Security (CSP, rate limit, OAuth)"
+      ]
+    },
+    {
+      "group": {
+        "tr": "Masaüstü & Mobil",
+        "en": "Desktop & Mobile"
+      },
+      "items": [
+        "Rust + Tauri v2",
+        "Electron",
+        "TypeScript / React",
+        "Capacitor (Android)",
+        "Chrome eklentileri / extensions",
+        "ONNX / OCR"
+      ]
+    },
+    {
+      "group": {
+        "tr": "Topluluk & İçerik",
+        "en": "Community & Content"
+      },
+      "items": [
+        "Video edit",
+        "HyperFrames (HTML → video)",
+        "ElevenLabs",
+        "YouTube & TikTok",
+        "Discord botları (discord.js)"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "4",
+      "label": {
+        "tr": "itch.io'da oyun",
+        "en": "games on itch.io"
+      }
+    },
+    {
+      "value": "6",
+      "label": {
+        "tr": "açık kaynak araç",
+        "en": "open-source tools"
+      }
+    },
+    {
+      "value": "1",
+      "label": {
+        "tr": "webtoon platformu",
+        "en": "webtoon platform"
+      }
+    },
+    {
+      "value": "188+",
+      "label": {
+        "tr": "YouTube videosu",
+        "en": "YouTube videos"
+      }
+    }
+  ],
+  "contact": {
+    "email": "",
+    "availability": {
+      "tr": "Freelance işlere, iş birliklerine ve ortaklıklara açığım.",
+      "en": "Open to freelance work, collaborations and partnerships."
+    }
+  },
+  "socials": [
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@heraklessi",
+      "note": {
+        "tr": "Edit ve oyun videoları",
+        "en": "Edits and gaming videos"
+      }
+    },
+    {
+      "id": "heraedits",
+      "label": "Instagram · edits",
+      "url": "https://www.instagram.com/heraedits._",
+      "note": {
+        "tr": "Edit hesabım",
+        "en": "My edits account"
+      }
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@heraklessi",
+      "note": {
+        "tr": "Editler",
+        "en": "Edits"
+      }
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/heraklessi",
+      "note": {
+        "tr": "Kişisel",
+        "en": "Personal"
+      }
+    },
+    {
+      "id": "heragames",
+      "label": "Instagram · HERA",
+      "url": "https://www.instagram.com/heragames._",
+      "note": {
+        "tr": "Oyunlarım",
+        "en": "My games"
+      }
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/heraklessii",
+      "note": {
+        "tr": "Açık kaynak araçlar",
+        "en": "Open-source tools"
+      }
+    },
+    {
+      "id": "itch",
+      "label": "itch.io",
+      "url": "https://heraklessi.itch.io/",
+      "note": {
+        "tr": "Oyunlar ve araçlar",
+        "en": "Games and tools"
+      }
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ilker-u%C3%A7kun/"
+    }
+  ],
+  "cv": {
+    "education": [],
+    "experience": [],
+    "languages": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "muita",
+  "title": "Muita",
+  "kind": "tool",
+  "order": 68,
+  "featured": true,
+  "color": "#34d3c0",
+  "status": {
+    "tr": "Satışta · 9,99 $",
+    "en": "On sale · $9.99"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Webtoon & manga çevirmenleri için çevrimdışı dizgi stüdyosu.",
+    "en": "An offline typesetting studio for webtoon & manga translators."
+  },
+  "description": {
+    "tr": "Muita, çevirmen ve editörlerin normalde bir görsel editörü, bir OCR aracı ve bir tablo arasında böldüğü işi tek, klavye odaklı bir pencerede topluyor: balonları bulmak, kaynak metni okumak, temizlemek, altındaki çizimi onarmak ve çeviriyi dizmek. Her şey yerelde çalışıyor — internet yok, API anahtarı yok.",
+    "en": "Muita gathers the jobs translators usually split between an image editor, an OCR tool and a spreadsheet into one keyboard-driven window: finding bubbles, reading the source text, cleaning, repairing the art underneath and setting the translation. Everything runs locally — no internet, no API keys."
+  },
+  "highlights": {
+    "tr": [
+      "Cihaz üstü balon tespiti + kontur analizi (konuşma, bağırış, düşünce, anlatım)",
+      "İngilizce, Korece, Japonca (dikey dahil) ve Çince OCR",
+      "Balonun gerçek şeklini izleyen dizgi, tek tuşla Ctrl+Enter akışı",
+      "Çizimi onaran iyileştirici silgi (gradyan, tram, doku)",
+      "20.000 px'lik sayfalarda akıcı kaydırma, hedef dosya boyutuyla dışa aktarım"
+    ],
+    "en": [
+      "On-device bubble detection + contour analysis (speech, shout, thought, narration)",
+      "OCR for English, Korean, Japanese (incl. vertical) and Chinese",
+      "Shape-aware typesetting, one-key Ctrl+Enter workflow",
+      "Healing eraser that rebuilds gradients, screentone and texture",
+      "Smooth scrolling on 20,000 px pages, export to a target file size"
+    ]
+  },
+  "tags": [
+    "Electron",
+    "TypeScript",
+    "ONNX",
+    "OCR",
+    "Inpainting"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/muita/cover.webp",
+  "thumb": "/media/muita/cover-sm.webp",
+  "gallery": [
+    "/media/muita/shot-1.webp",
+    "/media/muita/shot-2.webp",
+    "/media/muita/shot-3.webp",
+    "/media/muita/shot-4.webp",
+    "/media/muita/shot-5.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "itch.io'da incele",
+        "en": "View on itch.io"
+      },
+      "url": "https://heraklessi.itch.io/muita"
+    }
+  ]
+}

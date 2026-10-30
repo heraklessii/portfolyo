@@ -1,0 +1,71 @@
+{
+  "channel": "https://www.youtube.com/@heraklessi",
+  "categories": [
+    {
+      "id": "edits",
+      "title": { "tr": "Anime editleri", "en": "Anime edits" },
+      "format": "short",
+      "videos": [
+        { "id": "frvtZy81K2M", "title": "ta ki seni görene kadar" },
+        { "id": "GFh3ShIv0Ig", "title": "yumeko edit - on tuesday" },
+        { "id": "cxi-lBOdLwM", "title": "Babayla zor yarışırlar. #hsredit" },
+        { "id": "oDTPb2aAxFs", "title": "sung jinwoo edit" },
+        { "id": "Zb6kcYbDTtc", "title": "nefer edit" },
+        { "id": "C8_CkyuonQQ", "title": "GOJO EDIT" },
+        { "id": "XuRaFS77cwg", "title": "black swan edit" },
+        { "id": "J9N3AsXfc1E", "title": "leon edit" },
+        { "id": "3XVva_yvmco", "title": "maki edit" },
+        { "id": "6WCson70Hvo", "title": "cha hae in - huqqa" },
+        { "id": "aVdF0yIOmjc", "title": "daki - bonbon" },
+        { "id": "GoEo-imz9Cs", "title": "zani edit" }
+      ]
+    },
+    {
+      "id": "gamedev",
+      "title": { "tr": "Oyun geliştiriyorum", "en": "Devlog" },
+      "format": "short",
+      "videos": [
+        { "id": "DYeXrn3tpcU", "title": "OYUN GELİŞTİRİYORUM: PART #1" },
+        { "id": "i1ck5EeJusg", "title": "OYUN GELİŞTİRİYORUM: PART #2" },
+        { "id": "qbNkMM6jIKE", "title": "OYUN GELİŞTİRİYORUM: PART #3" }
+      ]
+    },
+    {
+      "id": "valorant",
+      "title": { "tr": "Valorant", "en": "Valorant" },
+      "format": "wide",
+      "videos": [
+        { "id": "8bEiwMWzt2Q", "title": "q atsam ölür mü" },
+        { "id": "j-eZbkgqacA", "title": "sage biraz gergin" },
+        { "id": "F_yINVxoGBo", "title": "clutch master" },
+        { "id": "e_nO5uMZc28", "title": "sage classic ace" },
+        { "id": "FgrpLuvpvCk", "title": "zorba neona haddini bildiren breach" },
+        { "id": "ql6qmSqkCNE", "title": "last player standing" }
+      ]
+    },
+    {
+      "id": "gacha",
+      "title": { "tr": "Genshin · Wuthering Waves", "en": "Genshin · Wuthering Waves" },
+      "format": "wide",
+      "videos": [
+        { "id": "FXmjfnfq9WE", "title": "1800 - bbno$ Feat Ironmouse | Nefer | Genshin Impact Edit" },
+        { "id": "--JzwfUmKA8", "title": "Reiko Kujirai - By My Love" },
+        { "id": "smDEq11K9KY", "title": "Genshin hesabımda neler var? 2024" },
+        { "id": "2mKJh5yEZfs", "title": "SKIRK İÇİN WİSH ATIYORUM?" },
+        { "id": "jHJdAqOFxp8", "title": "WUTHERING WAVES HESABIMDA NE VAR? (2026)" },
+        { "id": "BjW8Tc1OrIA", "title": "Duet Night Abyss - İlk Bakış #1" }
+      ]
+    },
+    {
+      "id": "lets-play",
+      "title": { "tr": "Oynanış serileri", "en": "Let's plays" },
+      "format": "wide",
+      "videos": [
+        { "id": "sGemmJ_JMXw", "title": "SEEN - İLK BAKIŞ!" },
+        { "id": "EtqIvLe9Ojw", "title": "INSIDE - 6. BÖLÜM!" },
+        { "id": "0VyawHFMf6g", "title": "INSIDE - FİNAL!" },
+        { "id": "2x1vR4S6pd8", "title": "LIMBO - 2. BÖLÜM!" }
+      ]
+    }
+  ]
+}

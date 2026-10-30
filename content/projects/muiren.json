@@ -1,0 +1,50 @@
+{
+  "slug": "muiren",
+  "title": "Muiren",
+  "kind": "tool",
+  "order": 58,
+  "color": "#3fd6c6",
+  "status": {
+    "tr": "Ücretsiz · açık kaynak",
+    "en": "Free · open source"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Boştaki sekmeleri kaybetmeden uyutup RAM'den tasarruf eden masaüstü tarayıcı.",
+    "en": "A desktop browser that sleeps idle tabs to save RAM — without losing them."
+  },
+  "description": {
+    "tr": "Boştaki sekmeleri kaybetmeden uyutup RAM'den tasarruf eden masaüstü tarayıcı.",
+    "en": "A desktop browser that sleeps idle tabs to save RAM — without losing them."
+  },
+  "tags": [
+    "Rust",
+    "Tauri",
+    "WebView2",
+    "React"
+  ],
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "/media/muiren/cover.webp",
+  "thumb": "/media/muiren/cover-sm.webp",
+  "gallery": [],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/Muiren"
+    },
+    {
+      "type": "secondary",
+      "label": {
+        "tr": "Tanıtım sayfası",
+        "en": "Project page"
+      },
+      "url": "https://heraklessii.github.io/Muiren/"
+    }
+  ]
+}

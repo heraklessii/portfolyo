@@ -1,0 +1,58 @@
+/* Tokens = HERA brand (~/.claude/yayin/marka.md) */
+@font-face { font-family: 'Pixelify Sans'; src: url('../assets/fonts/pixelify-sans-latin-wght-normal.woff2') format('woff2'); font-weight: 400 700; font-display: swap; }
+@font-face { font-family: 'Pixelify Sans'; src: url('../assets/fonts/pixelify-sans-latin-ext-wght-normal.woff2') format('woff2'); font-weight: 400 700; font-display: swap; unicode-range: U+0100-024F, U+1E00-1EFF; }
+@font-face { font-family: 'Plus Jakarta Sans'; src: url('../assets/fonts/plus-jakarta-sans-latin-wght-normal.woff2') format('woff2'); font-weight: 200 800; font-display: swap; }
+@font-face { font-family: 'Plus Jakarta Sans'; src: url('../assets/fonts/plus-jakarta-sans-latin-ext-wght-normal.woff2') format('woff2'); font-weight: 200 800; font-display: swap; unicode-range: U+0100-024F, U+1E00-1EFF; }
+@font-face { font-family: 'JetBrains Mono'; src: url('../assets/fonts/jetbrains-mono-latin-wght-normal.woff2') format('woff2'); font-weight: 100 800; font-display: swap; }
+
+:root {
+  --ink: #0c0a16;
+  --night: #141029;
+  --dusk: #1f1840;
+  --panel: #17132b;
+  --panel-2: #1e1938;
+  --line: #3a3166;
+  --text: #e6e1ff;
+  --text-2: #b4acd9;
+  --text-3: #7d76a6;
+  --teal: #3fd6c6;
+  --violet: #9b84ff;
+  --petal: #ffb3cc;
+  --amber: #ffcf6b;
+  --tone: var(--teal);
+  --shadow: 8px 8px 0 rgba(0, 0, 0, 0.45);
+  --font-pixel: 'Pixelify Sans', system-ui, sans-serif;
+  --font-ui: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --taskbar: 52px;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--ink); color: var(--text);
+  font: 15px/1.55 var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  font-variant-ligatures: none;
+}
+#app { position: fixed; inset: 0; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; }
+a { color: var(--teal); }
+img.pix, canvas { image-rendering: pixelated; }
+h1, h2, h3 { font-family: var(--font-pixel); font-weight: 700; line-height: 1.1; margin: 0 0 .5em; }
+h1 { font-size: 34px; } h2 { font-size: 22px; margin-top: 1.4em; } h3 { font-size: 16px; color: var(--text-2); }
+p { margin: 0 0 .9em; }
+:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+.rule { display: block; height: 4px; background: linear-gradient(90deg, var(--teal) 0 33.3%, var(--violet) 33.3% 66.6%, var(--petal) 66.6%); }
+.wordmark { font: 800 15px/1 var(--font-ui); letter-spacing: .22em; margin-right: -.22em; color: #f4f1ff; }
+.muted { color: var(--text-3); }
+.kicker { font-family: var(--font-pixel); color: var(--teal); letter-spacing: .06em; margin: 0 0 4px; }
+.link { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+.link:hover { color: var(--amber); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

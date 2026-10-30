@@ -1,0 +1,67 @@
+{
+  "slug": "muitown",
+  "title": "Muitown",
+  "kind": "game",
+  "order": 90,
+  "featured": true,
+  "color": "#7ed957",
+  "status": {
+    "tr": "Erken erişim · 4,99 $ · ücretsiz demo",
+    "en": "Early access · $4.99 · free demo"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Oyuncak şehir hissinde, gece-gündüz döngülü low-poly şehir kurma oyunu.",
+    "en": "A cozy low-poly city builder — watch your toy city come alive, day and night."
+  },
+  "description": {
+    "tr": "Cities: Skylines'tan ilham alan, maket görünümlü grid tabanlı bir şehir kurma oyunu. Yolları çiz, bölgeleri boya; evler, dükkanlar, ofisler ve fabrikalar kendiliğinden büyüsün. Sonra yakınlaş ve orada yaşayan insanlardan birini takip et.",
+    "en": "A grid-based city builder inspired by Cities: Skylines, with a miniature, toy-like look. Draw roads, paint zones and watch homes, shops, offices and factories grow on their own — then zoom in and follow one of the people who live there."
+  },
+  "highlights": {
+    "tr": [
+      "320×320 harita, nehirler, deniz kıyısı ve hazır otoyol kavşağı",
+      "20+ yol tipi, kavşak kuralları, üst geçit ve tüneller",
+      "Trafik yapay zekası, otobüs, taksi, metro, yük treni, liman",
+      "Arazi düzenleme, mevsimler, hava durumu, kirlilik",
+      "Vatandaşın gözünden şehri izleme kamerası"
+    ],
+    "en": [
+      "320×320 map with rivers, sea coast and a ready-made highway interchange",
+      "20+ road types, junction rules, overpasses and tunnels",
+      "Traffic AI, buses, taxis, metro, freight trains and a cargo port",
+      "Terrain tools, seasons, weather and pollution",
+      "Follow-a-citizen camera"
+    ]
+  },
+  "tags": [
+    "Unity 6",
+    "C#",
+    "Simülasyon",
+    "City Builder",
+    "Low-poly"
+  ],
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "cover": "/media/muitown/cover.webp",
+  "thumb": "/media/muitown/cover-sm.webp",
+  "gallery": [
+    "/media/muitown/shot-1.webp",
+    "/media/muitown/shot-2.webp",
+    "/media/muitown/shot-3.webp",
+    "/media/muitown/shot-4.webp",
+    "/media/muitown/shot-5.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "itch.io'da incele",
+        "en": "View on itch.io"
+      },
+      "url": "https://heraklessi.itch.io/muitown"
+    }
+  ]
+}

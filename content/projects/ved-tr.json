@@ -1,0 +1,37 @@
+{
+  "slug": "ved-tr",
+  "title": "Ved: Recure TR",
+  "kind": "other",
+  "order": 30,
+  "color": "#b98cff",
+  "status": {
+    "tr": "Gayriresmî Türkçe yama",
+    "en": "Unofficial Turkish patch"
+  },
+  "year": "2026",
+  "tagline": {
+    "tr": "Ved: Recure için gayriresmî Türkçe çeviri yaması.",
+    "en": "An unofficial Turkish translation patch for Ved: Recure."
+  },
+  "description": {
+    "tr": "Oyunun metinlerini Türkçeye çeviren, Unity tabanlı oyuna uygulanan hayran yaması.",
+    "en": "A fan patch that translates the game into Turkish, applied to the Unity-based game."
+  },
+  "tags": [
+    "Unity",
+    "Çeviri / Localization"
+  ],
+  "cover": "/media/ved-tr/cover.webp",
+  "thumb": "/media/ved-tr/cover-sm.webp",
+  "gallery": [],
+  "links": [
+    {
+      "type": "source",
+      "label": {
+        "tr": "Kaynak kod (GitHub)",
+        "en": "Source code (GitHub)"
+      },
+      "url": "https://github.com/heraklessii/ved-recure-turkce-yama"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "muitoon",
+  "title": "Muitoon",
+  "kind": "web",
+  "order": 75,
+  "featured": true,
+  "color": "#2dd4bf",
+  "status": {
+    "tr": "Yayında",
+    "en": "Live"
+  },
+  "year": "2025",
+  "tagline": {
+    "tr": "Sosyal okuma deneyimine odaklanan webtoon & manga platformu.",
+    "en": "A webtoon & manga platform built around social reading."
+  },
+  "description": {
+    "tr": "Muitoon, okumayı tek başına yapılan bir şeyden çıkarıp sosyal bir deneyime çeviriyor. Okurlar bir panelin tam üstüne yorum bırakabiliyor, arkadaşlarıyla senkron odalarda aynı anda okuyabiliyor, okudukça XP kazanıp profillerini kozmetiklerle özelleştirebiliyor. Platformun tamamını — sunucu, okuyucu, mobil uygulama, tarayıcı eklentileri ve Discord botu — tek başıma geliştirdim.",
+    "en": "Muitoon turns reading from something you do alone into something social. Readers can drop comments right on top of a panel, read together in synced rooms, earn XP and customise their profiles with cosmetics. I built the whole platform alone — server, reader, mobile app, browser extensions and Discord bot."
+  },
+  "highlights": {
+    "tr": [
+      "Panel yorumları: sayfanın 2D konumuna bağlı yorumlar",
+      "Birlikte oku: Socket.IO ile senkron okuma odaları",
+      "Android uygulaması (Capacitor) ve şifreli çevrimdışı okuma",
+      "Push bildirimleri, PWA, Discord botu ve rol senkronu",
+      "Nonce'lu CSP, rate limit, bot tespiti, otomatik yedekleme"
+    ],
+    "en": [
+      "Panel comments pinned to a 2D position on the page",
+      "Read together: synced reading rooms over Socket.IO",
+      "Android app (Capacitor) with encrypted offline reading",
+      "Push notifications, PWA, Discord bot with role sync",
+      "Nonce-based CSP, rate limiting, bot detection, automated backups"
+    ]
+  },
+  "tags": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Socket.IO",
+    "EJS",
+    "Capacitor",
+    "Discord.js"
+  ],
+  "platforms": [
+    "Web",
+    "Android"
+  ],
+  "cover": "/media/muitoon/cover.webp",
+  "thumb": "/media/muitoon/cover-sm.webp",
+  "gallery": [
+    "/media/muitoon/cover.webp",
+    "/media/muitoon/shot-1.webp"
+  ],
+  "links": [
+    {
+      "type": "primary",
+      "label": {
+        "tr": "Siteyi ziyaret et",
+        "en": "Visit the site"
+      },
+      "url": "https://muitoon.com/"
+    }
+  ]
+}
