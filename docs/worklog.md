@@ -23,3 +23,12 @@ Yapılanlar:
 - Bu bilgisayarda prefers-reduced-motion açık (Windows animasyonları kapalı): kart ve yıldızlar o modda da var; ekran görüntüleri hareketi taklit eder.
 Karar değişikliği: yok (D1–D5).
 Sonraki adım: kullanıcıdan CV bilgileri; GitHub deposu + Pages (onay).
+
+Tarih: 2026-10-31
+Oturum amacı: P5 — GitHub Pages yayını (kullanıcı onayı: "Evet, yayınla").
+Yapılanlar:
+- Eski Fogwardens tarayıcı prototipi (public/play) kullanıcı kararıyla çıkarıldı; master tek temiz commit olarak yeniden kuruldu (arşiv yerelde `ucan-ada`, push edilmedi).
+- `heraklessii/portfolyo` (public) oluşturuldu, açıklama + topics; Pages = Actions; ilk koşu build + deploy yeşil.
+- Canlı kontrol: /, cv/, en/cv/, medya, JS 200; /play/fogwardens 404; Hızlı bakış görselleriyle çiziliyor.
+Karar değişikliği: D3'e uygulama notu.
+Sonraki adım: CV bilgileri; portfolyo linkinin profillere eklenmesi (onay).

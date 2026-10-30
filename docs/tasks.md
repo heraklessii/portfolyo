@@ -6,12 +6,12 @@ Format: `[ ]` bekleyen · `[~]` devam/blokajda · `[x]` tamamlandı. Tamamlananl
 
 - [ ] **CV bilgileri** — e-posta (+LinkedIn), şehir/ülke, eğitim, deneyim, diller, öne çıkan sayılar, ne aradığın,
   fotoğraf mı avatar mı, Sessiz Şehir / özel projeler / Fallward-Cubeloom gösterilsin mi.
-- [ ] **GitHub Pages** — depo adı onayı (`heraklessii/portfolyo` önerisi) ve push izni.
+- [ ] **Bağlantılar** — portfolyo linki GitHub profil README'si / itch profili / Instagram bio'ya eklensin mi (onay).
 
 ## Paketler
 
-- [~] **P1 HERA OS iskeleti** — belge yapısı, Vite+Preact, pencere yöneticisi, masaüstü, görev çubuğu, duvar kağıdı.
-- [ ] **P2 Uygulamalar** — Hakkımda, Projeler (Oyunlar/Araçlar/Web), Proje penceresi, Videolar, CV, Terminal, İletişim.
-- [ ] **P3 İçerik** — katalogla eşit proje listesi (Mirela, Loomlight, Mui araçları eklenir), videolar, CV (kullanıcı bilgisiyle).
-- [ ] **P4 İşveren yolu** — Hızlı bakış, klasik `/cv/` sayfası, yazdır/PDF, derin bağlantılar, SEO/OG.
-- [ ] **P5 Yayın** — GitHub Actions → Pages.
+- [x] **P1 HERA OS iskeleti** (2026-10-31) — Vite+Preact, pencere yöneticisi, masaüstü, görev çubuğu, duvar kağıdı.
+- [x] **P2 Uygulamalar** (2026-10-31) — Hakkımda, Projeler, Proje, Videolar, CV.exe, Hızlı bakış, Terminal, İletişim, Çöp kutusu.
+- [~] **P3 İçerik** — 14 proje + sosyal hesaplar ✓; CV bölümleri (eğitim, deneyim, diller, e-posta) kullanıcı bilgisini bekliyor.
+- [x] **P4 İşveren yolu** (2026-10-31) — Hızlı bakış, klasik `cv/` + `en/cv/`, Yazdır/PDF, derin bağlantılar.
+- [x] **P5 Yayın** (2026-10-31) — `heraklessii/portfolyo` (public) → https://heraklessii.github.io/portfolyo/ (Actions).

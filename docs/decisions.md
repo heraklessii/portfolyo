@@ -21,6 +21,9 @@ Revisit: bundle 150 KB gzip'i aşarsa.
 sayfaları ve app-ads.txt için kullanılıyor → portfolyo ayrı depo (proje sitesi, `base` ayarlı). İletişim: e-posta
 kopyala/mailto + sosyal bağlantılar; form servisi (Formspree vb.) kullanıcı hesap açarsa eklenir.
 Revisit: kendi alan adı alınınca (CNAME, base '/').
+Uygulama (2026-10-31): depo `heraklessii/portfolyo` (public), Pages kaynağı GitHub Actions. Yayın geçmişi tek commit'ten
+başlar: eski arşiv commit'i (içinde Fogwardens tarayıcı prototipinin kaynak kodu vardı, kullanıcı herkese açılmasını
+istemedi) yalnız yerelde `ucan-ada` etiketinde durur — **bu etiket push edilmez**.
 
 ## D4 — İçerik JSON'da, iki dilli (2026-10-31)
 `content/site.json` (kimlik, hakkımda, sosyal, CV), `content/projects/*.json`, `content/videos.json`. Arayüz ve
