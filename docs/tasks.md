@@ -6,7 +6,7 @@ Format: `[ ]` bekleyen · `[~]` devam/blokajda · `[x]` tamamlandı. Tamamlananl
 
 - [ ] **CV bilgileri** — e-posta (+LinkedIn), şehir/ülke, eğitim, deneyim, diller, öne çıkan sayılar, ne aradığın,
   fotoğraf mı avatar mı, Sessiz Şehir / özel projeler / Fallward-Cubeloom gösterilsin mi.
-- [ ] **Bağlantılar** — portfolyo linki GitHub profil README'si / itch profili / Instagram bio'ya eklensin mi (onay).
+- [ ] **Instagram bio** — portfolyo linki istenirse @heraklessi bio'suna (kullanıcı ekler).
 
 ## Paketler
 
